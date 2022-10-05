@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
+
+</body>
+
+<script type="text/javascript">
+	
+const facebook = 'https://www.facebook.com/mahmudxon.uz';
+const instagram = 'https://www.instagram.com/mahmudxon_uz/';
+const twitter = 'https://twitter.com/mahmudxon_uz';
+const telegram = 'https://t.me/mahmudxon_uz';
+const linkedIn = 'https://linkedin.com/in/mahmudxon';
+const github = 'https://github.com/Mahmudxon/';
+const mail = 'mailto:Mahmudxon98@inbox.ru';
+const play = 'https://play.google.com/store/apps/developer?id=Mahmudxon+Umarxonov'
+
+	let h = new URLSearchParams(location.search).get('social');
+
+	let url = 'http://mahmudxon.uz/';
+
+		switch (h) 
+		{
+			case 'facebook': 
+				url = facebook;
+					 break;
+			case 'instagram': 
+				url = instagram;
+					 break;
+			case 'twitter': 
+				url = twitter;
+					 break;
+			case 'telegram': 
+				url = telegram;
+					 break;
+			case 'linkedIn': 
+				url = linkedIn;
+					 break;
+			case 'github': 
+				url = github;
+					 break;
+			case 'mail': 
+				location.href = mail;
+					 break;
+			case 'play':
+				url = play;
+					break;
+			
+		}
+		location.href = url;
+	</script>
+
+</html>
