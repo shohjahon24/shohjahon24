@@ -3,7 +3,7 @@
 I'm Shohjahon, a Software Developer from Uzbekistan.
 
 **Programming Languages**
-[<img alt="JAVA" title="Java" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">](https://docs.oracle.com/en/java/javase/11/)|[<img title="Kotlin" alt="Kotlin" width="40px" src="https://sdtimes.com/wp-content/uploads/2018/02/pCfEzr6L_400x400.png">](https://kotlinlang.org/)|[<img title="C++" alt="CPP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png">](https://cplusplus.com/)|[<img title="Dart" alt="Dart" width="40px" src = "https://en.wikipedia.org/wiki/Dart_(programming_language)#/media/File:Dart_programming_language_logo.svg">](https://dart.dev/)
+[<img alt="JAVA" title="Java" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">](https://docs.oracle.com/en/java/javase/11/)|[<img title="Kotlin" alt="Kotlin" width="40px" src="https://sdtimes.com/wp-content/uploads/2018/02/pCfEzr6L_400x400.png">](https://kotlinlang.org/)|[<img title="C++" alt="CPP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png">](https://cplusplus.com/)|[<img title="Dart" alt="Dart" width="40px" src="https://en.wikipedia.org/wiki/Dart_(programming_language)#/media/File:Dart_programming_language_logo.svg">](https://dart.dev/)
 |--|--|--|
 
 **Libraries and Frameworks**
