@@ -57,17 +57,15 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shohjahon24&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" width="47%" style="max-height: 200px; object-fit: contain;" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shohjahon24&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="47%" style="max-height: 200px; object-fit: contain;" />
 </p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohjahon24&layout=compact&theme=tokyonight&hide_border=true" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohjahon24&layout=compact&theme=tokyonight&hide_border=true" width="80%" height="200px"/>
 </p>
-
-
-
-
 
 ---
 
