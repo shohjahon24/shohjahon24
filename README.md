@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" width="47%" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="47%" height="180px"/>
 </p>
 
 <p align="center">
