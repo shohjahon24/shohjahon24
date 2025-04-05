@@ -53,12 +53,12 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shohjahon24&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shohjahon24&theme=tokyonight&hide_border=true" width="47%" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohjahon24&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohjahon24&layout=compact&theme=tokyonight&hide_border=true" width="47%" height="180px"/>
 </p>
 
 ---
