@@ -56,14 +56,17 @@
 
 ### 📊 GitHub Activity
 
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true&line_height=25" 
-    width="47%" 
+    src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" 
+    width="80%" 
   />
+</p>
+<p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Shohjahon24&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-    width="47%" 
+    width="80%" 
   />
 </p>
 
