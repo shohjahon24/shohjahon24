@@ -2,8 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Shohjahon!&fontSize=40&fontColor=ffffff" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Software+Developer+from+Uzbekistan; 
-  Android+%7C+Flutter+%7C+SwiftUI+%7C+CI%2FCD+%7C+Backend+tools;Always+learning+new+things!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Software+Developer+from+Uzbekistan;oooAndroid+%7C+Flutter+%7C+SwiftUI+%7C+CI%2FCD+%7C+Backend+tools;Always+learning+new+things!&center=true&width=500&height=45" />
 </p>
 
 
