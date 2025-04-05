@@ -111,7 +111,4 @@ Text                     11 mins             ░░░░░░░░░░░�
   }
 </style>
 
-<table class="noborder">
-...
-</table>
 
