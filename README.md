@@ -56,17 +56,10 @@
 
 ### 📊 GitHub Activity
 
-<table class="noborder" align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" width="100%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Shohjahon24&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shohjahon24&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+</p>
 
 
 <p align="center">
@@ -105,10 +98,5 @@ Text                     11 mins             ░░░░░░░░░░░�
   </a>
 </p>
 
-<style>
-  .noborder td, .noborder table {
-    border: none !important;
-  }
-</style>
 
 
