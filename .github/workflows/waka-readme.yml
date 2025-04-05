@@ -2,14 +2,24 @@ name: WakaTime Readme Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Har kuni soat 00:00 da ishga tushadi
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Har kuni yarim tunda ishga tushadi
+  workflow_dispatch: # Qo'lda ishga tushirish uchun
 
 jobs:
   update-readme:
-    name: Update WakaTime Stats
+    name: Update WakaTime stats in README
     runs-on: ubuntu-latest
+
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_USERNAME: "Shohjahon"
+          SHOW_TITLE: true
+          BLOCKS: true
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          COMMIT_MESSAGE: "📊 Update WakaTime stats"
+          TARGET_BRANCH: "main"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
