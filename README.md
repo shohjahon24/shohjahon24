@@ -7,6 +7,9 @@
 </p>
 
 
+![Location](https://img.shields.io/badge/From-Uzbekistan-0099ff?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+
 
 ---
 
