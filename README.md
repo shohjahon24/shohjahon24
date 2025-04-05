@@ -11,7 +11,7 @@
 - 🔭 I’m currently focused on **Android (Jetpack Compose, Hilt, Room)** and **CI/CD**
 - 💡 I love building **tools**, automating releases, and clean architecture
 - 🌱 I’m exploring **KMP**, **DevOps**, and better GitHub Actions
-- 📫 Reach me on Telegram: [@shohjahon24](https://t.me/shohjahon24)
+- 📫 Reach me on Telegram: [@Shoh_jahon24](https://t.me/Shoh_jahon24)
 
 ---
 
@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Room-6D4AFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hilt-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Koin-86D36B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Koin-87CEFA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ktor-0F121A?style=for-the-badge&logo=ktor&logoColor=white"/>
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
