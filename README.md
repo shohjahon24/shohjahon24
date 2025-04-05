@@ -68,7 +68,6 @@
 </table>
 
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohjahon24&layout=compact&theme=tokyonight&hide_border=true" width="80%" height="200px" style="object-fit: contain;" />
 </p>
