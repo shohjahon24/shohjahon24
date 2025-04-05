@@ -56,7 +56,7 @@
 
 ### 📊 GitHub Activity
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table class="noborder" align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" width="100%"/>
