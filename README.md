@@ -17,6 +17,9 @@
 - 💼 Connect on LinkedIn: [Shohjahon Sirojev](https://uz.linkedin.com/in/shohjahon-sirojev)
 
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight)
+
+
 ---
 
 ### 🚀 Skills & Tools
