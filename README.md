@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Shohjahon!&fontSize=40&fontColor=ffffff" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=220&section=header&text=Hi,%20I'm%20Shohjahon!&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Mobile%20%7C%20Backend%20%7C%20CI%2FCD%20Lover&descAlignY=60&descAlign=50&animation=fadeIn&stroke=ffffff" alt="header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Software+Developer+from+Uzbekistan;Android+%7C+Flutter+%7C+SwiftUI+%7C+CI%2FCD+%7C+Backend+tools;Always+learning+new+things!&center=true&width=700&height=45" />
