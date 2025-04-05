@@ -1,68 +1,68 @@
-### 👋 Hi there! I'm Shohjahon
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Shohjahon!&fontSize=40&fontColor=ffffff" alt="header"/>
 
-🎯 A passionate **Software Developer** from **Uzbekistan**, crafting mobile experiences with Kotlin & Flutter.  
-📱 Currently focused on **Android (Jetpack Compose, Hilt, Room)** and cross-platform apps using **Flutter**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+from+Uzbekistan;Android+%7C+Flutter+%7C+CI/CD+%7C+Backend+tools;Always+learning+new+things!&center=true&width=500&height=45" />
+</p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧑‍💻 About Me
+- 🔭 I’m currently focused on **Android (Jetpack Compose, Hilt, Room)** and **CI/CD**
+- 💡 I love building **tools**, automating releases, and clean architecture
+- 🌱 I’m exploring **KMP**, **DevOps**, and better GitHub Actions
+- 📫 Reach me on Telegram: [@shohjahon24](https://t.me/shohjahon24)
 
-#### 💻 Programming Languages
+---
+
+### 🚀 Skills & Tools
+
+#### 💻 Languages
 <p>
-  <a href="https://docs.oracle.com/en/java/javase/11/">
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="40" alt="Java" />
-  </a>
-  <a href="https://kotlinlang.org/">
-    <img src="https://sdtimes.com/wp-content/uploads/2018/02/pCfEzr6L_400x400.png" width="40" alt="Kotlin" />
-  </a>
-  <a href="https://cplusplus.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" width="40" alt="C++" />
-  </a>
-  <a href="https://dart.dev/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="40" alt="Dart" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-#### 📚 Frameworks & Libraries
+#### 🛠 Frameworks & Tools
 <p>
-  <a href="https://developer.android.com/">
-    <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" width="40" alt="Android" />
-  </a>
-  <a href="https://dagger.dev/">
-    <img src="https://miro.medium.com/max/321/1*ZHDFHf2l1dh__D7gvyIT4w.png" width="40" alt="Dagger/Hilt" />
-  </a>
-  <a href="https://www.sqlite.org/index.html">
-    <img src="https://sqlitebrowser.org/images/sqlitebrowser.svg" width="40" alt="SQLite" />
-  </a>
-  <a href="https://developer.android.com/jetpack/androidx/releases/room">
-    <img src="https://raw.githubusercontent.com/irontec/android-room-example/master/logo.png" width="40" alt="Room" />
-  </a>
-  <a href="https://insert-koin.io/">
-    <img src="https://insert-koin.io/img/koin_new_logo.png" width="40" alt="Koin" />
-  </a>
-  <a href="https://developer.android.com/jetpack/compose">
-    <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" width="40" alt="Jetpack Compose" />
-  </a>
-  <a href="https://cmake.org/">
-    <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Mark-1.svg" width="40" alt="CMake" />
-  </a>
-  <a href="https://flutter.dev/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="40" alt="Flutter" />
-  </a>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Room-6D4AFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hilt-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Koin-86D36B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+#### ⚙️ Tools
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MinIO-CF2A27?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<details>
-  <summary>📈 Click to show your stats</summary>
-  <br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=default&hide_title=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohjahon24&layout=compact&theme=default" width="47%"/>
+</p>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Shohjahon24)
-  [![Followers](https://img.shields.io/github/followers/Shohjahon24?label=Follow&style=social)](https://github.com/Shohjahon24)
+---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shohjahon24&show_icons=true&theme=default" width="500" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohjahon24&layout=compact&theme=default" width="500" />
-</details>
+### ☁️ Quote of the Day
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shohjahon24&label=Profile+Views&color=0e75b6&style=flat"/>
+  <a href="https://github.com/Shohjahon24?tab=followers"><img src="https://img.shields.io/github/followers/Shohjahon24?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
