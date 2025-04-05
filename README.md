@@ -70,6 +70,40 @@
 ### ⏱ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 54 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in Kotlin** 
+
+```text
+Kotlin                   44 repos            █████████████████████░░░░   83.02 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/shohjahon24/shohjahon24/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/04/2025 16:28:08 UTC
 <!--END_SECTION:waka-->
 
 
