@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Shohjahon!&fontSize=40&fontColor=ffffff" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+from+Uzbekistan;Android+%7C+Flutter+%7C+SwiftUI+%7C+CI/CD+%7C+Backend+tools;Always+learning+new+things!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Software+Developer+from+Uzbekistan;Android+%7C+Flutter+%7C+SwiftUI+%7C+CI%2FCD+%7C+Backend+tools;Always+learning+new+things!&center=true&width=500&height=45" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 - 🔭 I’m focused on Android, Jetpack Compose, CI/CD, and automation.
 - 💡 I love building dev tools, pipelines, and backend integrations.
-- 🌱 Learning KMP, SwiftUI, and Kotlin DSLs.
+- 🌱 Currently learning KMP, SwiftUI, and Kotlin DSLs.
 - 📫 Reach me on Telegram: [@Shoh_jahon24](https://t.me/Shoh_jahon24)
 
 ---
@@ -22,11 +22,11 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-#### 🛠 Frameworks & Tools
+#### 🧩 Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-#### ⚙️ Dev Tools
+#### ⚙️ DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
@@ -64,12 +64,13 @@
 ---
 
 ### ☁️ Quote of the Day
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shohjahon24&label=Profile+Views&color=0e75b6&style=flat"/>
-  <a href="https://github.com/Shohjahon24?tab=followers"><img src="https://img.shields.io/github/followers/Shohjahon24?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/Shohjahon24?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shohjahon24?label=Followers&style=social" alt="GitHub Badge">
+  </a>
 </p>
