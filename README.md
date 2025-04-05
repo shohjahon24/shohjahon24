@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohjahon24&layout=compact&theme=tokyonight&hide_border=true" width="60%" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohjahon24&layout=compact&theme=tokyonight&hide_border=true" width="80%" height="180px"/>
 </p>
 
 ---
