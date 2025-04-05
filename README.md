@@ -104,3 +104,14 @@ Text                     11 mins             ░░░░░░░░░░░�
     <img src="https://img.shields.io/github/followers/Shohjahon24?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
+
+<style>
+  .noborder td, .noborder table {
+    border: none !important;
+  }
+</style>
+
+<table class="noborder">
+...
+</table>
+
