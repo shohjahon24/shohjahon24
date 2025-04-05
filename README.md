@@ -68,7 +68,9 @@
 ---
 
 ### ⏱ WakaTime Weekly Stats
-https://github-readme-stats.vercel.app/api/wakatime?username=Shohjahon&layout=compact&theme=tokyonight
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
