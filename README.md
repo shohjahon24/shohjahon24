@@ -15,6 +15,8 @@
 - 💡 I love building dev tools, pipelines, and backend integrations.
 - 🌱 Currently learning KMP, SwiftUI, and Kotlin DSLs.
 - 📫 Reach me on Telegram: [@Shoh_jahon24](https://t.me/Shoh_jahon24)
+- 💼 Connect on LinkedIn: [Shohjahon Sirojev](https://uz.linkedin.com/in/shohjahon-sirojev)
+
 
 ---
 
