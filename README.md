@@ -92,11 +92,13 @@ Text                     11 mins             ░░░░░░░░░░░�
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shohjahon24&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Shohjahon24&label=👁️+Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  &nbsp;&nbsp;
   <a href="https://github.com/Shohjahon24?tab=followers">
-    <img src="https://img.shields.io/github/followers/Shohjahon24?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/Shohjahon24?label=👥+Followers&style=flat-square" alt="GitHub Followers"/>
   </a>
 </p>
+
 
 
 
