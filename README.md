@@ -71,17 +71,17 @@
 ### ⏱ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C305%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C310%20hrs%206%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   17 hrs 20 mins      ████████████████████████░   97.83 % 
-XML                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Kotlin                   18 hrs 22 mins      █████████████████████████   98.42 % 
+XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 Shrinker Config File     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
