@@ -73,6 +73,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C430%20hrs%2055%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Kotlin                   2 hrs 16 mins       █████████████████████████   99.17 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
