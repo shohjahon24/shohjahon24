@@ -71,13 +71,16 @@
 ### ⏱ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C430%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C431%20hrs%2038%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    19 mins             ███████████░░░░░░░░░░░░░░   45.45 % 
+Groovy                   17 mins             ██████████░░░░░░░░░░░░░░░   39.66 % 
+Gradle                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
