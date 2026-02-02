@@ -71,8 +71,6 @@
 ### ⏱ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C837%20hrs%2048%20mins-blue?style=flat)
-
 
 <!--END_SECTION:waka-->
 
