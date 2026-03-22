@@ -73,6 +73,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C023%20hrs%206%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Kotlin                   19 hrs 35 mins      ███████████████████████░░   91.72 % 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+XML                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+TOML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Shrinker Config File     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+```
+
 
 <!--END_SECTION:waka-->
 
