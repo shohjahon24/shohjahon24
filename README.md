@@ -71,15 +71,15 @@
 ### ⏱ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C099%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C100%20hrs%2025%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   8 hrs 51 mins       ████████████████████████░   95.92 % 
-XML                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Kotlin                   8 hrs 13 mins       ████████████████████████░   96.12 % 
+XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
