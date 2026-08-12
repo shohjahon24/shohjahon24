@@ -79,34 +79,34 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   7 hrs 49 mins       ██████████████████░░░░░░░   73.61 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Java Properties          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-XML                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Kotlin                   5 hrs 37 mins       ████████████████████░░░░░   79.11 % 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+XML                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 55 mins (93.37%)
+⏱ AI Coding Time: 6 hrs 46 mins (95.35%)
 
-✍️ 9,033 lines written by AI, 6 lines written by hand (99.93% AI-written)
+✍️ 8,564 lines written by AI, 5 lines written by hand (99.94% AI-written)
 
-🔤 270,249,388 Input Tokens, 932,924 Output Tokens
+🔤 167,774,019 Input Tokens, 732,672 Output Tokens
 
-💵 $1438.41 Estimated AI Cost This Week
+💵 $922.15 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 175 AI Prompts
+🧠 6 AI Sessions, 117 AI Prompts
 
-Opus                     9,758 lines         █████████████████████████   100.00 % 
+Opus                     9,172 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📝 Concise Prompter — average 305 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📝 Concise Prompter — average 399 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 
