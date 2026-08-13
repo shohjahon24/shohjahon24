@@ -79,34 +79,34 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   5 hrs 37 mins       ████████████████████░░░░░   79.11 % 
-JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-XML                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Kotlin                   3 hrs 40 mins       ███████████████████████░░   90.81 % 
+XML                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 46 mins (95.35%)
+⏱ AI Coding Time: 3 hrs 52 mins (95.49%)
 
-✍️ 8,564 lines written by AI, 5 lines written by hand (99.94% AI-written)
+✍️ 3,928 lines written by AI, 5 lines written by hand (99.87% AI-written)
 
-🔤 167,774,019 Input Tokens, 732,672 Output Tokens
+🔤 61,294,796 Input Tokens, 370,138 Output Tokens
 
-💵 $922.15 Estimated AI Cost This Week
+💵 $380.85 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 117 AI Prompts
+🧠 4 AI Sessions, 61 AI Prompts
 
-Opus                     9,172 lines         █████████████████████████   100.00 % 
+Opus                     4,146 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📝 Concise Prompter — average 399 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.87% of written lines came from AI
+📝 Concise Prompter — average 134 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 
