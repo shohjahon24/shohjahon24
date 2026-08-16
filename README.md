@@ -79,33 +79,33 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   3 hrs 3 mins        █████████████████████░░░░   84.33 % 
-XML                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Kotlin                   2 hrs 42 mins       █████████████████████░░░░   85.21 % 
+XML                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 25 mins (94.83%)
+⏱ AI Coding Time: 2 hrs 59 mins (94.46%)
 
-✍️ 4,992 lines written by AI, 6 lines written by hand (99.88% AI-written)
+✍️ 4,319 lines written by AI, 6 lines written by hand (99.86% AI-written)
 
-🔤 1,692,116 Input Tokens, 374,952 Output Tokens
+🔤 1,275,054 Input Tokens, 326,304 Output Tokens
 
-💵 $91.53 Estimated AI Cost This Week
+💵 $84.18 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 56 AI Prompts
+🧠 3 AI Sessions, 47 AI Prompts
 
-Opus                     5,251 lines         █████████████████████████   100.00 % 
+Opus                     4,578 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📝 Concise Prompter — average 212 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
+🤖 AI-Driven — 99.86% of written lines came from AI
+📝 Concise Prompter — average 242 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 
