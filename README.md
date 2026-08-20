@@ -71,42 +71,42 @@
 ### ⏱ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C242%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C243%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2047%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.33 % 
-Kotlin                   2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
-XML                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Java Properties          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Swift                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Kotlin                   3 hrs 54 mins       ███████████░░░░░░░░░░░░░░   42.04 % 
+Other                    3 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.71 % 
+XML                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Java Properties          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Swift                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 6 mins (87.69%)
+⏱ AI Coding Time: 8 hrs 17 mins (89.25%)
 
-✍️ 2,463 lines written by AI, 533 lines written by hand (82.21% AI-written)
+✍️ 2,867 lines written by AI, 533 lines written by hand (84.32% AI-written)
 
-🔤 16,903,588 Input Tokens, 326,191 Output Tokens
+🔤 17,193,388 Input Tokens, 435,002 Output Tokens
 
-💵 $69.74 Estimated AI Cost This Week
+💵 $92.41 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 125 AI Prompts
+🧠 11 AI Sessions, 151 AI Prompts
 
-Opus                     2,649 lines         ████████████████████████░   96.05 % 
-Sonnet                   109 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Opus                     3,053 lines         ████████████████████████░   96.55 % 
+Sonnet                   109 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.21% of written lines came from AI
-📚 Verbose Prompter — average 4,266 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 98.84% of changed lines were hand-edited
+🤖 AI-Driven — 84.32% of written lines came from AI
+📚 Verbose Prompter — average 3,641 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 98.67% of changed lines were hand-edited
 ```
 
 
