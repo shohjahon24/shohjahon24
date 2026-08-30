@@ -75,6 +75,40 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%2010%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Kotlin                   7 hrs 57 mins       ████████████████████░░░░░   81.93 % 
+Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Dart                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 2 mins (93.05%)
+
+✍️ 1,187 lines written by AI, 10 lines written by hand (99.16% AI-written)
+
+🔤 23,501,364 Input Tokens, 754,885 Output Tokens
+
+💵 $123.77 Estimated AI Cost This Week
+
+🧠 22 AI Sessions, 202 AI Prompts
+
+Sonnet                   1,590 lines         ████████████████████████░   97.73 % 
+Opus                     37 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.16% of written lines came from AI
+📝 Concise Prompter — average 363 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.79% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 
