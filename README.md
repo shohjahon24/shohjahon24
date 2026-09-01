@@ -79,34 +79,34 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   7 hrs 4 mins        ████████████████████░░░░░   81.02 % 
-Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Dart                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Kotlin                   7 hrs 4 mins        █████████████████████░░░░   85.28 % 
+Dart                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 15 mins (94.51%)
+⏱ AI Coding Time: 7 hrs 58 mins (96.07%)
 
-✍️ 1,270 lines written by AI, 10 lines written by hand (99.22% AI-written)
+✍️ 1,270 lines written by AI, 6 lines written by hand (99.53% AI-written)
 
-🔤 23,069,061 Input Tokens, 711,462 Output Tokens
+🔤 22,908,445 Input Tokens, 709,209 Output Tokens
 
-💵 $116.77 Estimated AI Cost This Week
+💵 $116.32 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 178 AI Prompts
+🧠 18 AI Sessions, 167 AI Prompts
 
 Sonnet                   1,708 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.22% of written lines came from AI
-📝 Concise Prompter — average 391 characters per prompt
+🤖 AI-Driven — 99.53% of written lines came from AI
+📝 Concise Prompter — average 415 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.76% of changed lines were hand-edited
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 
