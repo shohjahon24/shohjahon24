@@ -71,41 +71,40 @@
 ### ⏱ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C257%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C257%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   1 hr 28 mins        ████████████████████░░░░░   81.95 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Java                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Kotlin                   1 hr 6 mins         ██████████████████████░░░   89.58 % 
+Java                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 45 mins (97.93%)
+⏱ AI Coding Time: 1 hr 2 mins (84.05%)
 
-✍️ 317 lines written by AI, 3 lines written by hand (99.06% AI-written)
+✍️ 253 lines written by AI, 3 lines written by hand (98.83% AI-written)
 
-🔤 374,441 Input Tokens, 134,658 Output Tokens
+🔤 459,363 Input Tokens, 99,138 Output Tokens
 
-💵 $11.98 Estimated AI Cost This Week
+💵 $7.46 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 44 AI Prompts
+🧠 5 AI Sessions, 25 AI Prompts
 
-Sonnet                   400 lines           █████████████████████████   100.00 % 
+Sonnet                   260 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.06% of written lines came from AI
-📝 Concise Prompter — average 362 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.74% of changed lines were hand-edited
+🤖 AI-Driven — 98.83% of written lines came from AI
+📄 Detailed Prompter — average 604 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.14% of changed lines were hand-edited
 ```
 
 
