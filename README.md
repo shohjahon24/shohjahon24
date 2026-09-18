@@ -71,43 +71,43 @@
 ### ⏱ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C279%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C283%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   12 hrs 14 mins      ██████████████████████░░░   86.73 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Swift                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Java                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Kotlin                   13 hrs 2 mins       █████████████████████░░░░   83.90 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Swift                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 31 mins (88.79%)
+⏱ AI Coding Time: 14 hrs 6 mins (90.8%)
 
-✍️ 5,414 lines written by AI, 34 lines written by hand (99.38% AI-written)
+✍️ 11,694 lines written by AI, 18 lines written by hand (99.85% AI-written)
 
-🔤 5,859,531 Input Tokens, 1,279,410 Output Tokens
+🔤 6,935,159 Input Tokens, 1,695,750 Output Tokens
 
-💵 $221.60 Estimated AI Cost This Week
+💵 $267.12 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 266 AI Prompts
+🧠 31 AI Sessions, 273 AI Prompts
 
-Opus                     4,018 lines         █████████████████░░░░░░░░   68.47 % 
-Fable                    1,220 lines         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Sonnet                   630 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Sonnet                   7,322 lines         ███████████████░░░░░░░░░░   60.17 % 
+Opus                     3,627 lines         ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+Fable                    1,220 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.38% of written lines came from AI
-📝 Concise Prompter — average 282 characters per prompt
+🤖 AI-Driven — 99.85% of written lines came from AI
+📄 Detailed Prompter — average 538 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 2.38% of changed lines were hand-edited
+🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
 
