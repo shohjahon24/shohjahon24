@@ -71,9 +71,45 @@
 ### ⏱ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C288%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C288%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-194%20hrs%206%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Kotlin                   14 hrs 20 mins      ████████████████████░░░░░   80.61 % 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Swift                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 hrs 57 mins (95.4%)
+
+✍️ 11,377 lines written by AI, 22 lines written by hand (99.81% AI-written)
+
+🔤 9,986,666 Input Tokens, 1,972,919 Output Tokens
+
+💵 $266.55 Estimated AI Cost This Week
+
+🧠 30 AI Sessions, 329 AI Prompts
+
+Sonnet                   10,695 lines        ██████████████████████░░░   88.24 % 
+Fable                    1,220 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Opus                     205 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.81% of written lines came from AI
+📚 Verbose Prompter — average 3,983 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.26% of changed lines were hand-edited
+```
 
 
 <!--END_SECTION:waka-->
