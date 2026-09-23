@@ -79,36 +79,34 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   14 hrs 20 mins      ████████████████████░░░░░   80.61 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Swift                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Kotlin                   11 hrs 4 mins       ████████████████████░░░░░   80.46 % 
+Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 57 mins (95.4%)
+⏱ AI Coding Time: 13 hrs 11 mins (95.78%)
 
-✍️ 11,377 lines written by AI, 22 lines written by hand (99.81% AI-written)
+✍️ 9,831 lines written by AI, 5 lines written by hand (99.95% AI-written)
 
-🔤 9,986,666 Input Tokens, 1,972,919 Output Tokens
+🔤 8,229,860 Input Tokens, 1,586,524 Output Tokens
 
-💵 $266.55 Estimated AI Cost This Week
+💵 $211.68 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 329 AI Prompts
+🧠 24 AI Sessions, 247 AI Prompts
 
-Sonnet                   10,695 lines        ██████████████████████░░░   88.24 % 
-Fable                    1,220 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Opus                     205 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Sonnet                   10,439 lines        █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📚 Verbose Prompter — average 3,983 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.26% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 5,210 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 
