@@ -71,40 +71,40 @@
 ### ⏱ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C290%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C290%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2011%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   10 hrs 53 mins      ████████████████████░░░░░   79.96 % 
-Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Kotlin                   7 hrs 27 mins       ████████████████████░░░░░   78.85 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 30 mins (91.93%)
+⏱ AI Coding Time: 8 hrs 23 mins (88.78%)
 
-✍️ 11,212 lines written by AI, 6 lines written by hand (99.95% AI-written)
+✍️ 4,655 lines written by AI, 5 lines written by hand (99.89% AI-written)
 
-🔤 6,283,266 Input Tokens, 1,638,572 Output Tokens
+🔤 4,442,592 Input Tokens, 1,035,287 Output Tokens
 
-💵 $186.20 Estimated AI Cost This Week
+💵 $114.98 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 225 AI Prompts
+🧠 20 AI Sessions, 177 AI Prompts
 
-Sonnet                   12,014 lines        █████████████████████████   100.00 % 
+Sonnet                   5,322 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 5,591 characters per prompt
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 6,557 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
