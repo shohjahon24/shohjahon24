@@ -71,42 +71,9 @@
 ### ⏱ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C291%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C292%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-197%20hrs%2021%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   3 hrs 6 mins        ████████████████████░░░░░   79.91 % 
-Text                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 14 mins (83.4%)
-
-✍️ 5,254 lines written by AI, 2 lines written by hand (99.96% AI-written)
-
-🔤 1,438,698 Input Tokens, 539,199 Output Tokens
-
-💵 $55.39 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 59 AI Prompts
-
-Sonnet                   5,544 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 354 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
-```
 
 
 <!--END_SECTION:waka-->
