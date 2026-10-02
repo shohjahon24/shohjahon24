@@ -79,17 +79,17 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   2 hrs 8 mins        █████████████████████░░░░   83.58 % 
-Text                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Kotlin                   2 hrs 5 mins        █████████████████████░░░░   83.22 % 
+Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 6 mins (81.9%)
+⏱ AI Coding Time: 2 hrs 4 mins (82.86%)
 
 ✍️ 4,088 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
@@ -97,14 +97,14 @@ Markdown                 1 min               ░░░░░░░░░░░�
 
 💵 $41.58 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 40 AI Prompts
+🧠 6 AI Sessions, 30 AI Prompts
 
 Sonnet                   4,133 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 432 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 570 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
