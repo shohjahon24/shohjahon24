@@ -79,32 +79,32 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-Other                    1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-HTML                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Other                    1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+Kotlin                   1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+HTML                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs (94.8%)
+⏱ AI Coding Time: 5 hrs 47 mins (95.35%)
 
-✍️ 1,920 lines written by AI, 1 lines written by hand (99.95% AI-written)
+✍️ 1,868 lines written by AI, 1 lines written by hand (99.95% AI-written)
 
-🔤 4,750,344 Input Tokens, 519,022 Output Tokens
+🔤 4,672,300 Input Tokens, 505,645 Output Tokens
 
-💵 $61.10 Estimated AI Cost This Week
+💵 $60.36 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 152 AI Prompts
+🧠 14 AI Sessions, 143 AI Prompts
 
-Opus                     1,847 lines         ████████████████████████░   94.28 % 
-Sonnet                   112 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Opus                     1,847 lines         ████████████████████████░   96.90 % 
+Sonnet                   59 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📝 Concise Prompter — average 267 characters per prompt
+📝 Concise Prompter — average 279 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
